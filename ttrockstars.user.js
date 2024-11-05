@@ -1,4 +1,4 @@
-// ==UserScript==
+// ==UserScript==bot enabled while playing.
 // @name         TTROCK-bot
 // @namespace    https://github.com/jibstack64/ttrockstars-bot
 // @version      0.1
